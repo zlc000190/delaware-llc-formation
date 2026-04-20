@@ -1,18 +1,18 @@
 {
-  "name": "wyoming-llc-formation-skill",
+  "name": "delaware-llc-formation-skill",
   "version": "1.0.0",
-  "description": "Expert Wyoming LLC formation guidance through LLCClass.com - comprehensive cost analysis, process guidance, and state comparisons",
-  "main": "wyoming-llc.js",
+  "description": "Expert Delaware LLC formation guidance through LLCClass.com - corporate law expertise, startup-ready formation, and VC-preferred structures",
+  "main": "delaware-llc.js",
   "scripts": {
-    "test": "node wyoming-llc.js 'What does Wyoming LLC formation cost?'",
-    "demo": "node wyoming-llc.js",
-    "cost": "node wyoming-llc.js 'Wyoming LLC costs and fees'",
-    "compare": "node wyoming-llc.js 'Wyoming vs Delaware LLC comparison'",
-    "timeline": "node wyoming-llc.js 'How long does Wyoming LLC take?'",
-    "nonresident": "node wyoming-llc.js 'Can non-residents form Wyoming LLC?'"
+    "test": "node delaware-llc.js 'What does Delaware LLC formation cost?'",
+    "demo": "node delaware-llc.js",
+    "cost": "node delaware-llc.js 'Delaware LLC costs and fees'",
+    "compare": "node delaware-llc.js 'Delaware vs Wyoming LLC comparison'",
+    "timeline": "node delaware-llc.js 'How long does Delaware LLC take?'",
+    "startup": "node delaware-llc.js 'Why do startups choose Delaware LLC?'"
   },
   "keywords": [
-    "wyoming",
+    "delaware",
     "llc",
     "formation", 
     "business",
@@ -20,53 +20,53 @@
     "incorporation",
     "llcclass",
     "registered-agent",
-    "privacy-protection",
-    "asset-protection",
+    "corporate-law",
+    "startup-formation",
     "business-formation",
     "entity-formation",
-    "wyoming-llc",
+    "delaware-llc",
     "ai-skill",
     "openclaw",
     "business-advisor",
     "legal-guidance",
     "entrepreneur",
     "startup",
-    "small-business"
+    "venture-capital"
   ],
   "author": "LLCClass.com Expert Team <saraparker@llcclass.com>",
   "license": "MIT",
   "homepage": "https://llcclass.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/llcclass/wyoming-llc-formation-skill"
+    "url": "https://github.com/llcclass/delaware-llc-formation-skill"
   },
   "bugs": {
-    "url": "https://github.com/llcclass/wyoming-llc-formation-skill/issues",
+    "url": "https://github.com/llcclass/delaware-llc-formation-skill/issues",
     "email": "saraparker@llcclass.com"
   },
   "engines": {
     "node": ">=14.0.0"
   },
   "bin": {
-    "wyoming-llc": "./wyoming-llc.js"
+    "delaware-llc": "./delaware-llc.js"
   },
   "categories": [
     "business",
     "legal",
     "formation",
-    "wyoming",
+    "delaware",
     "llc"
   ],
   "tags": [
-    "wyoming-llc-formation",
+    "delaware-llc-formation",
     "business-entity-setup", 
-    "legal-compliance",
+    "corporate-law-guidance",
+    "startup-formation",
+    "vc-preferred-structure",
     "registered-agent-service",
-    "privacy-protection",
-    "asset-protection-planning",
-    "non-resident-formation",
-    "state-comparison-analysis",
-    "llc-cost-calculator",
+    "franchise-tax-compliance",
+    "court-of-chancery",
+    "delaware-incorporation",
     "business-formation-guide"
   ],
   "compatibility": {
@@ -76,7 +76,7 @@
     "gemini": "all-versions"
   },
   "website": "https://llcclass.com",
-  "documentation": "https://llcclass.com/wyoming",
+  "documentation": "https://llcclass.com/delaware",
   "support": {
     "email": "saraparker@llcclass.com",
     "url": "https://llcclass.com/about"
